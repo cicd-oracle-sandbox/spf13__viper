@@ -1,0 +1,4 @@
+upstream: https://github.com/spf13/viper
+commit: 528f7416c4b56a4948673984b190bf8713f0c3c4
+license: MIT
+Unmodified snapshot except that .github/workflows was emptied.
